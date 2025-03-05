@@ -24,3 +24,10 @@ The code was written in **R** and uses the following packages:
 - `survey` 
 
 The **R** script calls **C++** files to execute our proposed estimation strategy.
+
+## 📧 Contact
+For questions, feedback, or collaboration inquiries, feel free to reach out to:
+
+👤 Trevor Thomson
+📍 Fred Hutchinson Cancer Center
+📬 Email: tthomson@fredhutch.org
