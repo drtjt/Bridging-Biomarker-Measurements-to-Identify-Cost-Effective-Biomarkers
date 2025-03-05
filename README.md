@@ -9,7 +9,7 @@ This repository contains the code used for the simulation study in our paper:
 ## 📌 Overview
 This repository provides:
 - Code to generate simulated data under a probit regression model, and obtain information to reproduce Tables 1 and 2
-- Code to generate simulated data under a probit regression model, and obtain information to reproduce Tables 1 and 3
+- Code to generate simulated data under a logistic regression model, and obtain information to reproduce Tables 1 and 3
 
 ## 🛠️ Requirements
 The code was written in **R** and uses the following packages:
