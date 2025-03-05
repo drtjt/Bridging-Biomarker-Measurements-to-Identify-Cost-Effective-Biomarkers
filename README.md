@@ -29,5 +29,7 @@ The **R** script calls **C++** files to execute our proposed estimation strategy
 For questions, feedback, or collaboration inquiries, feel free to reach out to:
 
 👤 Trevor Thomson
+
 📍 Fred Hutchinson Cancer Center
+
 📬 Email: tthomson@fredhutch.org
