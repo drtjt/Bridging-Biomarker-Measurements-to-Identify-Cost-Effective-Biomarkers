@@ -1,9 +1,9 @@
-# Simulation Study for [Bridging Biomarker Measurements to Identify Cost-Effective Biomarkers]
+# Simulation Study for "Bridging Biomarker Measurements to Identify Cost-Effective Biomarkers"
 
 This repository contains the code used for the simulation study in our paper:
 
-> **[Bridging Biomarker Measurements to Identify Cost-Effective Biomarkers]**  
-> [Trevor J Thomson, Ying Huang, and Yunda Huang]  
+> **Bridging Biomarker Measurements to Identify Cost-Effective Biomarkers**  
+> Authors: Trevor J Thomson, Ying Huang, and Yunda Huang  
 > Submitted to [Statistics in Medicine]
 
 ## 📌 Overview
