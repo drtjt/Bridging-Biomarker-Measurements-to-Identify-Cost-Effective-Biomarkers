@@ -4,7 +4,7 @@ This repository contains the code used for the simulation study in our paper:
 
 > **Bridging Biomarker Measurements to Identify Cost-Effective Biomarkers**  
 > Authors: Trevor J Thomson, Ying Huang, and Yunda Huang  
-> Submitted to [Statistics in Medicine]
+> Submitted to "Statistics in Medicine"
 
 ## 📌 Overview
 This repository provides:
