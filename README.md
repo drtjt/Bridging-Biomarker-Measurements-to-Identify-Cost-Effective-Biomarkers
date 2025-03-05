@@ -1,27 +1,24 @@
-# Simulation Study for [Paper Title]
+# Simulation Study for [Bridging Biomarker Measurements to Identify Cost-Effective Biomarkers]
 
-This repository contains the code and data used for the simulation study in our paper:
+This repository contains the code used for the simulation study in our paper:
 
-> **[Paper Title]**  
-> [Author(s)]  
-> Submitted to [Journal Name]
+> **[Bridging Biomarker Measurements to Identify Cost-Effective Biomarkers]**  
+> [Trevor J Thomson, Ying Huang, and Yunda Huang]  
+> Submitted to [Statistics in Medicine]
 
 ## 📌 Overview
 This repository provides:
-- Code to generate the simulated data
-- Scripts for running the simulations
-- Code for analyzing the results and producing figures/tables
-- Instructions for reproducing the study
+- Code to generate simulated data under a probit regression model, and obtain information to reproduce Tables 1 and 2
+- Code to generate simulated data under a probit regression model, and obtain information to reproduce Tables 1 and 3
 
 ## 🛠️ Requirements
 The code was written in **R** and uses the following packages:
-- `ggplot2`
-- `dplyr`
 - `MASS`
-- `survival` *(if applicable)*  
-*(Add other dependencies as needed)*  
-
-### 📥 Installation
-To run the code, install the required packages in R:
-```r
-install.packages(c("ggplot2", "dplyr", "MASS", "survival")) # Add more if needed
+- `nleqslv`
+- `mvtnorm`
+- `Rcpp`
+- `RcppArmadillo`
+- `stringr`
+- `numDeriv`
+- `cubature`
+- `survey` 
