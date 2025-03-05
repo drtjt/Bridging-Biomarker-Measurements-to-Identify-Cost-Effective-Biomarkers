@@ -22,3 +22,5 @@ The code was written in **R** and uses the following packages:
 - `numDeriv`
 - `cubature`
 - `survey` 
+
+The **R** script calls **C++** files to execute our proposed estimation strategy.
